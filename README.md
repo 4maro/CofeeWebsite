@@ -1,3 +1,3 @@
 # CofeeWebsite
 
-My amazindg website
+My amazing website
