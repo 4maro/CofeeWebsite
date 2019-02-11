@@ -1,3 +1,3 @@
-# CofeeWebsite
+# CoffeeWebsite
 
 My amazing website
